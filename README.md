@@ -13,13 +13,13 @@ Procure por **WP Mautic Form Integrator** no menu **Plugins** do seu Wordpress e
 
 Será adicionado um novo menu no seu Wordpress chamado **WP Mautic Form Integrator**. Clique nele e vá em **Configuraçoes**.
 
-A opção **Mautic Base URL** é o domínio em que seu Mautic está hospedado. O **OAuth Type** deve SEMPRE ser OAuth2.
+A opção **Mautic Base URL** é o domínio em que seu Mautic está hospedado. O **OAuth Type** deve SEMPRE ser **OAuth2**.
 
 Copie a **Mautic Redirect URI** indicada e vá para o seu Mautic. Lá, tenha certeza de estar com sua API ativada em **Configurações -> Configurações da API**.
 
-Acesse o menu **Credenciais API** e gere credenciais do tipo **OAuth2**.
+Acesse o menu **Credenciais API** e gere credenciais do tipo **OAuth2** usando a **Mautic Redirect URI** copiada.
 
-Após isso, você terá uma **Chave Pública** e uma **Chave secreta**. Volte no Wordpress e insira elas no campo correspondente.
+Após isso, você terá uma **Chave Pública** e uma **Chave Secreta**. Volte no Wordpress e insira elas nos campos correspondentes.
 
 Selecione quais plugins utilizarão a integração, salve as alterações e está tudo pronto.
 
