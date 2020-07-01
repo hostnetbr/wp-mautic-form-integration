@@ -1,0 +1,11 @@
+.haw_mautic_integration_settings input[type="text"]{width:50%}
+.haw_mautic_integration_settings select{width:50%}
+.haw_mautic_integration_add_new select{width:100%}
+.haw_mautic_integration_add_new h3{margin-top:0;}
+.haw-error{color: #ff2222; display: table;}
+#haw_mautic_add_new_map td:first-child{width:33%;}
+#haw_mautic_add_new_map td{padding: 5px 10px;}
+#haw_mautic_add_new_map hr{margin-bottom: 0;}
+#haw_mautic_add_new_map{margin-bottom: 0.5em;}
+.haw_mautic_integration_add_new hr.top{margin:5px -10px !important;border-color:#d2d2d2}
+.haw_mautic_integration_add_new hr.bottom{border-color:#f2f2f2}
